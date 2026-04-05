@@ -24,5 +24,5 @@
 Yazılım alanında kendimi geliştirip staj sürecinde gerçek proje deneyimi kazanmak.
 
 ## Bana Ulaş
-- LinkedIn: [link]
-- E-posta: [mail]
+- LinkedIn: [www.linkedin.com/in/ferhat-aslan-a57780332]
+- E-posta: [ferhataaslan06@gmail.com]
