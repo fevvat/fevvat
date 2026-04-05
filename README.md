@@ -1,16 +1,28 @@
-## Hi there 👋
+# Merhaba, ben Ferhat 👋
 
-<!--
-**fevvat/fevvat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Gümüşhane Üniversitesi - Bilgisayar Programcılığı  
+💻 Web geliştirme, C#, Python ve temel yazılım projeleri ile ilgileniyorum  
+🚀 Kendimi staj ve gerçek projelerle geliştirmeye çalışıyorum  
+📌 İlgi alanlarım: Web projeleri, otomasyon, oyun geliştirme, kullanıcı arayüzleri  
 
-Here are some ideas to get you started:
+## Kullandığım Teknolojiler
+- C#
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Öne Çıkan Projelerim
+- Kelime öğrenme platformu
+- Web tabanlı öğrenci / hizmet projeleri
+- Unity ile oyun geliştirme denemeleri
+- C# form uygulamaları
+
+## Hedefim
+Yazılım alanında kendimi geliştirip staj sürecinde gerçek proje deneyimi kazanmak.
+
+## Bana Ulaş
+- LinkedIn: [link]
+- E-posta: [mail]
